@@ -9,8 +9,16 @@ Olabisi: Friday the 13th - Learnt about implementation of git commands and engag
 =======
 Ronald: Friday - Learnt Git
 >>>>>>> cf5edd30ee4cb32e80a879c8f17aa455e0a0bafc
+<<<<<<< HEAD
 >>>>>>> fb353bc3c9fdef838a9d54e2e8243b9b4300e750
 
 
 
 Bolu: Friday, 13 -03- 2020: Practical approach to using git commands
+=======
+??????
+Devon: FRIDAY - GIT BABY
+Steph: Urrrrrrggggghhhhhh!!!!!!
+
+Siji: More commands
+>>>>>>> 6ba60fefca54aaf27de4473e3c2fe2a67dd18be6
