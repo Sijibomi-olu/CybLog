@@ -1,3 +1,16 @@
 " CybLog" 
 Siji: Friday - Learnt Git
-Bolu: Friday, 13 -03- 2020: Practical approach to using git commands, file manipulation with git
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+
+Olabisi: Friday the 13th - Learnt about implementation of git commands and engaged in a project collaboration on GitHub.
+=======
+Ronald: Friday - Learnt Git
+>>>>>>> cf5edd30ee4cb32e80a879c8f17aa455e0a0bafc
+>>>>>>> fb353bc3c9fdef838a9d54e2e8243b9b4300e750
+
+
+
+Bolu: Friday, 13 -03- 2020: Practical approach to using git commands
