@@ -1,4 +1,8 @@
 " CybLog" 
 Siji: Friday - Learnt Git
+<<<<<<< HEAD
 
 Olabisi: Friday the 13th - Learnt about implementation of git commands and engaged in a project collaboration on GitHub.
+=======
+Ronald: Friday - Learnt Git
+>>>>>>> cf5edd30ee4cb32e80a879c8f17aa455e0a0bafc
