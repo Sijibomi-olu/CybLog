@@ -1,2 +1,4 @@
 " CybLog" 
 Siji: Friday - Learnt Git
+
+Olabisi: Friday the 13th - Learnt about implementation of git commands and engaged in a project collaboration on GitHub.
