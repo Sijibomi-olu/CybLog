@@ -19,6 +19,14 @@ Bolu: Friday, 13 -03- 2020: Practical approach to using git commands
 ??????
 Devon: FRIDAY - GIT BABY
 Steph: Urrrrrrggggghhhhhh!!!!!!
+<<<<<<< HEAD
+Ronald: Trying my best ( ._.)
+=======
 
 Siji: More commands
 >>>>>>> 6ba60fefca54aaf27de4473e3c2fe2a67dd18be6
+<<<<<<< HEAD
+=======
+
+Ronald: Trying my best ( ._.)
+>>>>>>> d0c24654b47214ce88ab1b778c592ac7a5962c22
